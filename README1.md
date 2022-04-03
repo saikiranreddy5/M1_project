@@ -17,8 +17,7 @@ This project “LIBRARY MANAGEMENT SYSTEM” gives us the complete information a
 |2_Architecture|Structural and Behavioural UML|
 |3_Implementation|All the code is written here|
 |4_TestPlanAndOutput|Documents with test plans and outputs|
-|5_Report|Generated Report|
-|6_ImagesandVideos|All the images and program execution video|
+|5_ImagesandVideos|All the images and program execution video|
 
 # ISSUE TRACKING
 |ID|NAME|FEATURES|ISSUES RAISED|ISSUES RESOLVED|TOTAL TESTCASES|TOTAL TESTCASES PASSED|
